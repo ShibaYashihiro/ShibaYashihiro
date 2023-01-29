@@ -122,4 +122,3 @@ Seeking to further improve PHP and JS skills as the future full stack developer 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
