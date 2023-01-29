@@ -1,9 +1,6 @@
 ## Hey 👋, I'm Shiba Yashihiro!  
   
 
-<a href="https://github.com/ShibaYashihiro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://stackoverflow.com/users/21086896/shiba-y" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
@@ -14,7 +11,11 @@
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
+
+Dedicated and efficient full stack developer with 8+ years experience in CMS Framework, Frontend such as Bootstrap, Vue.js, React and Angular and Backend such as Laravel, CI and Yii2. 
+
+Seeking to further improve PHP and JS skills as the future full stack developer at Atmospheric Solutions.  
   
 
 <br/>  
@@ -23,7 +24,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently finding good job.  
   
 
 - 🌱 I’m currently learning Next and Nuxt.  
